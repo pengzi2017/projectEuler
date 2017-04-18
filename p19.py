@@ -1,4 +1,4 @@
-#Easy but too boring, just Skip
+#Easy but, just Skip
 #Idea below:
 
 def classify(year):

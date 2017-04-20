@@ -1,3 +1,4 @@
+#I want to solve the problem by simulating, but the result isn't that good.
 import random
 
 def move(x, y,degree):
